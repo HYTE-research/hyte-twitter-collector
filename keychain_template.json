@@ -1,0 +1,8 @@
+{
+  "APP_NAME": "Example Collector",
+  "APP_URL": "https://developer.twitter.com/en/apps/123456789",
+  "CONSUMER_KEY": "",
+  "CONSUMER_SECRET": "",
+  "ACCESS_TOKEN": "",
+  "ACCESS_TOKEN_SECRET": ""
+}
